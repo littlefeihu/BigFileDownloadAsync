@@ -1,0 +1,9 @@
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\bin\Debug\BreakpointResume.exe
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\bin\Debug\BreakpointResume.pdb
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\obj\Debug\BreakpointResume.DownloadProcessForm.resources
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\obj\Debug\BreakpointResume.Form1.resources
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\obj\Debug\BreakpointResume.Properties.Resources.resources
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\obj\Debug\BreakpointResume.csproj.GenerateResource.Cache
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\obj\Debug\BreakpointResume.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\obj\Debug\BreakpointResume.exe
+C:\Users\lenovo\Downloads\BreakpointResume\BreakpointResume\obj\Debug\BreakpointResume.pdb
